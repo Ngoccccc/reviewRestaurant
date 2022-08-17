@@ -1,4 +1,4 @@
-# project-baitap
+# Database Project
 ## Cách chạy project:
 ```
 cd server
